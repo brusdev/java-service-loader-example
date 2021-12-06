@@ -1,0 +1,3 @@
+org/example/plugin/hash/HashPlugin.class
+org/example/plugin/hash/SimpleHashPluginFactory.class
+org/example/plugin/hash/SimpleHashPlugin.class
